@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
@@ -33,3 +34,10 @@ function App() {
 }
 
 export default App
+=======
+function App() {
+  return <p className='text-center'>Hello World!</p>;
+}
+
+export default App;
+>>>>>>> origin/main
